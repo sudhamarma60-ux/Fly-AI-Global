@@ -1,0 +1,12 @@
+FLY_Ecommerce_Shopping_Chatbot_FINAL/
+├── app/main.py
+├── app/static/index.html
+├── app/static/style.css
+├── app/static/app.js
+├── data/                         # DB is created here
+├── .env.example
+├── README.md
+├── PROJECT_STRUCTURE.txt
+├── requirements.txt
+├── run.py
+└── START_FLY.bat
